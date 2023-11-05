@@ -83,10 +83,10 @@
 
 <p align="justify">&emsp;O FP-Growth é um algoritmo de mineração de dados que se baseia em uma estrutura de dados chamada "Árvore de Projeto de Padrões" (FP-Tree) para encontrar padrões frequentes em dados. Ele também não utiliza programação dinâmica, mas é eficiente na identificação de padrões frequentes.</p>
 
-<h2 id="ref">Refrência Bibliográfica</h2><br>
+<h2 id="ref">Referências Bibliográficas</h2><br>
 
 - [Incorporando Técnicas de Mineração de
-Dados à Metaheurística GRASP](https://www.ic.uff.br/wp-content/uploads/2021/11/276.pdf)
+Dados à Metaheurística GRASP - UFF](https://www.ic.uff.br/wp-content/uploads/2021/11/276.pdf)
 - [A técnica da programação dinâmica no projeto de algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/dynamic-programming.html)
 - [Algoritmos para Programação Dinâmica Baseados em Famílias Invariantes](http://www.din.uem.br/sbpo/sbpo2005/pdf/arq0024.pdf)
 - [Complexidade de algoritmos - UFRGS](https://www.inf.ufrgs.br/~prestes/Courses/Complexity/aula17.pdf)
