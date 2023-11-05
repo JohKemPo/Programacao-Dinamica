@@ -12,6 +12,8 @@
 
 1. [Introdução](#intro)
 1. [Algoritmos](#algoritmos)
+1. [Referências Bibliográcas](#ref)
+
 
 
 
@@ -80,6 +82,19 @@
 ### **FP-Growth**
 
 <p align="justify">&emsp;O FP-Growth é um algoritmo de mineração de dados que se baseia em uma estrutura de dados chamada "Árvore de Projeto de Padrões" (FP-Tree) para encontrar padrões frequentes em dados. Ele também não utiliza programação dinâmica, mas é eficiente na identificação de padrões frequentes.</p>
+
+<h2 id="ref">Refrência Bibliográfica</h2><br>
+
+- [Incorporando Técnicas de Mineração de
+Dados à Metaheurística GRASP](https://www.ic.uff.br/wp-content/uploads/2021/11/276.pdf)
+- [A técnica da programação dinâmica no projeto de algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/dynamic-programming.html)
+- [Algoritmos para Programação Dinâmica Baseados em Famílias Invariantes](http://www.din.uem.br/sbpo/sbpo2005/pdf/arq0024.pdf)
+- [Complexidade de algoritmos - UFRGS](https://www.inf.ufrgs.br/~prestes/Courses/Complexity/aula17.pdf)
+- [FPmax e suas possíveis utilizações](https://www.linkedin.com/pulse/o-algoritmo-fpmax-e-suas-poss%C3%ADveis-utiliza%C3%A7%C3%B5es-davi-j-leite-santos/)
+- [python mlxted - FPgrowth - documentação](https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpgrowth/)
+- [python mlxted - FPmax - documentação](https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpmax/)
+- [python mlxted - Apriori - documentação](https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpmax/)
+- [Mineração de dados frequentes com Apriori e FPgrowth](https://medium.com/@abnersuniga7/encontre-padr%C3%B5es-nos-seus-dados-com-apriori-e-fp-growth-4a581ec1b22)
 
 <br>
 <h1 id="Equipe">Equipe</h1><br>
